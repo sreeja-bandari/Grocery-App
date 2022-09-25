@@ -1,7 +1,7 @@
 # Virtual Internship - Android Application Development Using Kotlin <br>
-## Google Developer Profile:- https://g.dev/sreeja7
+### Google Developer Profile:- https://g.dev/sreeja7
 
-## Google Drive Link for the vedio :-   https://drive.google.com/file/d/1w1uPAHywNfTm503zFj1ZQxm-T584MtVN/view
+### Google Drive Link for the Demo vedio :-   https://drive.google.com/file/d/1w1uPAHywNfTm503zFj1ZQxm-T584MtVN/view
 <br>
 GROCERY APP <br>
 <br>
