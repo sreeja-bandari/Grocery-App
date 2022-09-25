@@ -1,9 +1,10 @@
 # Virtual Internship - Android Application Development Using Kotlin <br>
-Google Developer Profile:- https://g.dev/sreeja7
+## Google Developer Profile:- https://g.dev/sreeja7
 
-Google Drive Link for the vedio :-   https://drive.google.com/file/d/1w1uPAHywNfTm503zFj1ZQxm-T584MtVN/view
+## Google Drive Link for the vedio :-   https://drive.google.com/file/d/1w1uPAHywNfTm503zFj1ZQxm-T584MtVN/view
 <br>
-# Grocery-App <br>
+GROCERY APP <br>
+<br>
 There are many pre-existing grocery list apps, but all of them don’t get worthy organic traffic due to the complicated user-interface. A broad age group operates such apps; therefore the user interface must be very preliminary and basic. Such apps are downloaded by the user for convenience, so we must not add too many security layers, as we know that security comes at the cost of convenience.
 
 In this project, we are using MVVM (Model View ViewModel) for architectural patterns, Room for database, Coroutines and RecyclerView to display the list of items. Before jumping to the project let’s understand these terms.
